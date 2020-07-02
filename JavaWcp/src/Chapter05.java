@@ -20,7 +20,7 @@ public class Chapter05 {
 		System.out.println(c);
 
 		int[] array = { 0, 10, 20, 30, 40 };
-		System.out.println(arry[3]);
+		System.out.println(array[3]);
 
 	}
 }
